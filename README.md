@@ -1,7 +1,6 @@
 <h1 align="center">Oba, Guil aqui🙈</h1>
 <h3 align="center">Yay, curious! Ready to discover something new?</h3>
 
-<h3 align="left">Connect with me: É o Guil Amor#BR1</h3>
 <p align="left">
 </p>
 
